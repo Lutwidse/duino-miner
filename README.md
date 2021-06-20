@@ -1,1 +1,3 @@
 # duino-miner
+This is garbage. you should make pullRequest to the original mining tool.  
+or you can might do that to this one by reading spaghetti code...
